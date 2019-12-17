@@ -1,0 +1,12 @@
+Uuid: 72f7b61e22f64ef5882dff6054df5ac7
+ExtensionType: 1
+Name: Cypher Injection Scanner
+RepoName: cypher-injection-scanner
+ScreenVersion: 1.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Morkin1792
+ShortDescription: A Burp Suite Extension that detects Cypher code injection
+EntryPoint: build/libs/burp.jar
+BuildCommand: gradle jar
